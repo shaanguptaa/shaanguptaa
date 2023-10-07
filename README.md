@@ -13,12 +13,12 @@
                  About me 
     ------------------------------------ -->
 <div id="aboutme">
-    <p><img src="animated_icons/point.gif" width="13px"/> &nbsp;<strong>Hey There!</strong>&nbsp; <img src="animated_icons/wave.gif" width="17px"/></p>
-    <img src="animated_icons/rocket.gif" style="width: 17px"/>
-    I'm a Passionate Developer, Constantly Exploring and Creating in the World of Tech and Beyond. On a Constant Journey of Transforming Ideas <img src="animated_icons/idea.gif" style="width: 17px"/> 
-    <!-- <img src="animated_icons/idea1.gif" style="width: 17px"/> -->
+    <p><img src="icons/point.gif" width="13px"/> &nbsp;<strong>Hey There!</strong>&nbsp; <img src="icons/wave.gif" width="17px"/></p>
+    <img src="icons/rocket.gif" style="width: 17px"/>
+    I'm a Passionate Developer, Constantly Exploring and Creating in the World of Tech and Beyond. On a Constant Journey of Transforming Ideas <img src="icons/idea.gif" style="width: 17px"/> 
+    <!-- <img src="icons/idea1.gif" style="width: 17px"/> -->
      into Heartfelt Code 
-    <img src="animated_icons/heart.gif" style="width: 17px"/>
+    <img src="icons/heart.gif" style="width: 17px"/>
 </div>
 <br><br>
 
@@ -27,69 +27,69 @@
             Tech stack and skills 
     ---------------------------------------- -->
 <div id="techstack-and-skills">
-<p><img src="animated_icons/point.gif" width="13px"/> &nbsp;<strong>My Tech Stack & Skills</strong>&nbsp; <img src="animated_icons/tech.gif" width="15px"/></p>
+<p><img src="icons/point.gif" width="13px"/> &nbsp;<strong>My Tech Stack & Skills</strong>&nbsp; <img src="icons/tech.gif" width="15px"/></p>
 <table align="center">
   <tr title="Front-End Technologies">
     <td align="center">
-        <img src="https://img.icons8.com/color/html-5.png" width="65px" alt="HTML5">
+        <img src="icons/html5.png" width="65px" alt="HTML5">
         <p>HTML5</p>
     </td>
     <td align="center">
-        <img src="animated_icons/js.gif" width="65px"alt="JavaScript">
+        <img src="icons/js.gif" width="65px"alt="JavaScript">
         <p>JavaScript</p>
     </td>
     <td align="center">
-        <img src="https://img.icons8.com/color/css3.png"  width="65px" alt="CSS3">
+        <img src="icons/css3.png"  width="65px" alt="CSS3">
         <p>CSS3</p>
     </td>
     <!-- <td align="center">
-        <img src="https://img.icons8.com/color/react" alt="React">
+        <img src="icons/react" alt="React">
         <p>React</p>
     </td> -->
   </tr>
   <tr title="Back-End Technologies">
     <td align="center">
-        <img src="animated_icons/python.gif" width="65px" alt="Python">
+        <img src="icons/python.gif" width="65px" alt="Python">
         <p>Python</p>
     </td>
     <td align="center">
-        <img src="https://img.icons8.com/color/c-programming.png"  width="65px" alt="C">
+        <img src="icons/c_lang.png"  width="65px" alt="C">
         <p>C Programming</p>
     </td>
     <td align="center">
-        <img src="animated_icons/java.gif" width="65px" alt="Java">
+        <img src="icons/java.gif" width="65px" alt="Java">
         <p>Java</p>
     </td>
     <td align="center">
-        <img src="https://img.icons8.com/color/c-plus-plus-logo.png"  width="65px" alt="C++">
+        <img src="icons/cpp.png"  width="65px" alt="C++">
         <p>C++</p>
     </td>
     <!-- <td align="center">
-        <img src="https://img.icons8.com/color/nodejs.png" alt="Node.js">
+        <img src="icons/nodejs.png" alt="Node.js">
         <p>Node.js</p>
     </td> -->
   </tr>
   <tr title="Databases">
     <td align="center">
-        <img src="https://img.icons8.com/color/mysql.png" width="65px" alt="MySQL">
+        <img src="icons/mysql.png" width="65px" alt="MySQL">
         <p>MySQL</p>
     </td>
     <td align="center">
-        <img src="https://img.icons8.com/color/mongodb.png" width="65px" alt="MongoDB">
+        <img src="icons/mongodb.png" width="65px" alt="MongoDB">
         <p>MongoDB</p>
     </td>
   </tr>
   <tr title="Other Tools & Version Control">
     <td align="center">
-        <img src="https://img.icons8.com/color/visual-studio.png" width="65px" alt="VS Code">
+        <img src="icons/vs_code.png" width="65px" alt="VS Code">
         <p>VS Code</p>
     </td>
     <td align="center">
-        <img src="animated_icons/github.gif" width="65px" alt="GitHub">
+        <img src="icons/github.gif" width="65px" alt="GitHub">
         <p>GitHub</p>
     </td>
     <td align="center">
-        <img src="https://img.icons8.com/color/git.png" width="65px" alt="Git">
+        <img src="icons/git.png" width="65px" alt="Git">
         <p>Git</p>
     </td>
   </tr>
@@ -100,12 +100,6 @@
 <!-- -----------------------------
             Github Stats
     ------------------------------ -->
-
-<!-- For light mode
-[![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaanguptaa&hide=contribs&show_icons=true#gh-light-mode-only)]()
-
-for dark mode
-[![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaanguptaa&hide=contribs&show_icons=true&hide_rank=true&theme=dark#gh-dark-mode-only)]() -->
 <div id="stats-and-languages" align="center">
     <a>
         <picture>
