@@ -1,11 +1,39 @@
 <br><br>
 <header>
-<div>
+  <picture>
+  <!-- for dark mode -->
+    <source
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=SAHIL+GUPTA&color=36BCF7FF"
+      media="(prefers-color-scheme: dark)"
+    />
+  <!-- for light mode -->
+    <source
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=SAHIL+GUPTA&color=000000FF"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=SAHIL+GUPTA&color=36BCF7FF" alt="Title - Sahil Gupta" />
+  </picture>
+
+  <picture>
+  <!-- for dark mode -->
+    <source
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Aspiring+Computer+Engineer;Transforming+Ideas+%F0%9F%92%A1+Into+Code+%F0%9F%92%96&color=36BCF7FF"
+      media="(prefers-color-scheme: dark)"
+    />
+  <!-- for light mode -->
+    <source
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Aspiring+Computer+Engineer;Transforming+Ideas+%F0%9F%92%A1+Into+Code+%F0%9F%92%96&color=000000F"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Aspiring+Computer+Engineer;Transforming+Ideas+%F0%9F%92%A1+Into+Code+%F0%9F%92%96&color=36BCF7FF" alt="Bio" />
+  </picture>
+
+<!-- <div>
     <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=SAHIL+GUPTA" alt="Title - Sahil Gupta" />
 </div>
 <div>
     <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Aspiring+Computer+Engineer;Transforming+Ideas+%F0%9F%92%A1+Into+Code+%F0%9F%92%96" alt="Bio" />
-</div>
+</div> -->
 </header>
 <br><hr><br>
 
@@ -105,32 +133,32 @@
         <picture>
         <!-- for dark mode -->
           <source
-            srcset="https://github-readme-stats.vercel.app/api?username=shaanguptaa&hide=contribs&show_icons=true&hide_rank=true&theme=dark"
+            srcset="https://github-readme-stats.vercel.app/api?username=shaanguptaa&hide=contribs&show_icons=true&hide_rank=true&hide_border=true&title_color=36BCF7&theme=github_dark"
             media="(prefers-color-scheme: dark)"
           />
         <!-- for light mode -->
           <source
-            srcset="https://github-readme-stats.vercel.app/api?username=shaanguptaa&hide=contribs&show_icons=true&hide_rank=true"
+            srcset="https://github-readme-stats.vercel.app/api?username=shaanguptaa&hide=contribs&show_icons=true&hide_rank=true&hide_border=true"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
           />
-          <img width="40%" src="https://github-readme-stats.vercel.app/api?username=shaanguptaa&hide=contribs&show_icons=true&hide_rank=true&theme=dark" />
+          <img width="40%" src="https://github-readme-stats.vercel.app/api?username=shaanguptaa&hide=contribs&show_icons=true&hide_rank=true&hide_border=true&title_color=36BCF7&theme=github_dark" />
         </picture>
     </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <!-- languages used -->
     <a>
         <picture>
         <!-- for dark mode -->
           <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shaanguptaa&layout=compact&theme=dark"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shaanguptaa&layout=compact&hide_border=true&title_color=36BCF7&theme=github_dark"
             media="(prefers-color-scheme: dark)"
           />
         <!-- for light mode -->
           <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shaanguptaa&layout=compact"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shaanguptaa&layout=compact&hide_border=true"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
           />
-          <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaanguptaa&layout=compact&theme=dark" />
+          <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaanguptaa&layout=compact&hide_border=true&title_color=36BCF7&theme=github_dark" />
         </picture>
     </a>
 </div>
@@ -141,7 +169,7 @@
     <picture>
     <!-- for dark mode -->
       <source
-        srcset="https://streak-stats.demolab.com?user=shaanguptaa&hide_border=true&theme=dark"
+        srcset="https://streak-stats.demolab.com?user=shaanguptaa&hide_border=true&theme=github-dark-blue"
         media="(prefers-color-scheme: dark)"
       />
     <!-- for light mode -->
@@ -149,7 +177,7 @@
         srcset="https://streak-stats.demolab.com?user=shaanguptaa&hide_border=true"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img width="80%" src="https://streak-stats.demolab.com?user=shaanguptaa&hide_border=true&theme=dark" />
+      <img width="80%" src="https://streak-stats.demolab.com?user=shaanguptaa&hide_border=true&theme=github-dark-blue" />
     </picture>
 </div>
 
