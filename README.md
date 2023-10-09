@@ -17,15 +17,15 @@
   <picture>
   <!-- for dark mode -->
     <source
-      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Aspiring+Computer+Engineer;Transforming+Ideas+%F0%9F%92%A1+Into+Code+%F0%9F%92%96&color=36BCF7FF"
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Software+Developer;Aspiring+Computer+Engineer;Transforming+Ideas%F0%9F%92%A1+Into+Code%F0%9F%92%96&color=36BCF7FF"
       media="(prefers-color-scheme: dark)"
     />
   <!-- for light mode -->
     <source
-      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Aspiring+Computer+Engineer;Transforming+Ideas+%F0%9F%92%A1+Into+Code+%F0%9F%92%96&color=000000F"
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Software+Developer;Aspiring+Computer+Engineer;Transforming+Ideas%F0%9F%92%A1+Into+Code%F0%9F%92%96&color=000000F"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Aspiring+Computer+Engineer;Transforming+Ideas+%F0%9F%92%A1+Into+Code+%F0%9F%92%96&color=36BCF7FF" alt="Bio" />
+    <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Software+Developer;Aspiring+Computer+Engineer;Transforming+Ideas%F0%9F%92%A1+Into+Code%F0%9F%92%96&color=36BCF7FF" alt="Bio" />
   </picture>
 
 <!-- <div>
@@ -56,7 +56,7 @@
     ---------------------------------------- -->
 <div id="techstack-and-skills">
 <p><img src="icons/point.gif" width="13px"/> &nbsp;<strong>My Tech Stack & Skills</strong>&nbsp; <img src="icons/tech.gif" width="15px"/></p>
-<table align="center">
+<table align="center" width="100%">
   <tr title="Front-End Technologies">
     <td align="center">
         <img src="icons/html5.png" width="65px" alt="HTML5">
