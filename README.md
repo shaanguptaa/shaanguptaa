@@ -133,17 +133,18 @@
         <picture>
         <!-- for dark mode -->
           <source
-            srcset="https://github-readme-stats.vercel.app/api?username=shaanguptaa&hide=contribs&show_icons=true&hide_rank=true&hide_border=true&title_color=36BCF7&theme=github_dark"
+            srcset="https://github-readme-stats.vercel.app/api?username=shaanguptaa&show_icons=true&hide_rank=true&hide_border=true&title_color=36BCF7&theme=github_dark"
             media="(prefers-color-scheme: dark)"
           />
         <!-- for light mode -->
           <source
-            srcset="https://github-readme-stats.vercel.app/api?username=shaanguptaa&hide=contribs&show_icons=true&hide_rank=true&hide_border=true"
+            srcset="https://github-readme-stats.vercel.app/api?username=shaanguptaa&show_icons=true&hide_rank=true&hide_border=true"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
           />
-          <img width="40%" src="https://github-readme-stats.vercel.app/api?username=shaanguptaa&hide=contribs&show_icons=true&hide_rank=true&hide_border=true&title_color=36BCF7&theme=github_dark" />
-        </picture>
+          <img width="40%" src="https://github-readme-stats.vercel.app/api?username=shaanguptaa&show_icons=true&hide_rank=true&hide_border=true&title_color=36BCF7&theme=github_dark" />       
+          </picture>
     </a>
+<!-- <img width="40%" src="https://github-readme-stats.vercel.app/api?username=shaanguptaa&hide=contribs&show_icons=true&hide_rank=true&hide_border=true&title_color=36BCF7&theme=github_dark" /> -->
 &nbsp;&nbsp;&nbsp;
 <!-- languages used -->
     <a>
