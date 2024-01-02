@@ -159,7 +159,7 @@
             srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shaanguptaa&layout=compact&hide_border=true"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
           />
-          <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaanguptaa&layout=compact&hide_border=true&title_color=36BCF7&theme=github_dark" />
+          <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaanguptaa&layout=compact&hide_border=true&title_color=36BCF7&theme=github_dark" />
         </picture>
     </a>
 </div>
